@@ -1,0 +1,1228 @@
+{
+  "title": "The history of the yawn",
+  "tagline": "From a Greek theory of trapped air to yawning lions and budgies: how people figured out why we yawn.",
+  "intro": "For two thousand years, yawning was explained as air, fever or a lack of oxygen. In the 1980s simple experiments showed it was not about oxygen at all, and ultrasound found yawns before birth. Since then researchers have studied why yawns spread, why brain size predicts yawn length, and whether a yawn cools the brain. The last question is still debated.",
+  "eras": [
+    {
+      "id": "humours",
+      "name": "Air, fever and humours",
+      "from": -400,
+      "to": 1760,
+      "color": "#c49bff",
+      "summary": "For two thousand years, doctors and religious traditions saw the yawn as air, fever, or something to hold back and cover."
+    },
+    {
+      "id": "clinic",
+      "name": "The nervous system takes over",
+      "from": 1794,
+      "to": 1958,
+      "color": "#ffb547",
+      "summary": "Doctors notice paralysed arms moving in a yawn and start to see it as a stretch run by the brainstem, not a breath."
+    },
+    {
+      "id": "experiment",
+      "name": "Stopwatches, gas masks and scans",
+      "from": 1982,
+      "to": 2026,
+      "color": "#a3e635",
+      "summary": "Ultrasound finds yawns before birth, and lab tests time the yawn and reject the oxygen myth."
+    },
+    {
+      "id": "contagion",
+      "name": "Catching yawns",
+      "from": 2003,
+      "to": 2025,
+      "color": "#8ef0ff",
+      "summary": "Researchers learn who catches yawns, from four-year-olds to chimps, dogs, budgies and lions, and argue about empathy."
+    },
+    {
+      "id": "cooling",
+      "name": "A brain cooler?",
+      "from": 2007,
+      "to": 2021,
+      "color": "#ff7a59",
+      "summary": "Cold packs, hot summers and brain sizes test the idea that a yawn helps cool the brain."
+    }
+  ],
+  "events": [
+    {
+      "year": -400,
+      "date": "c. 400 BCE",
+      "era": "humours",
+      "art": "lungs",
+      "title": "A Greek medical text blames yawning on trapped air",
+      "who": "Hippocratic writers",
+      "where": "Ancient Greece",
+      "country": "Greece",
+      "text": "The Hippocratic treatise On Winds (De flatibus) is the oldest known medical writing on yawning. It says yawning is built-up air rising and escaping through the mouth. It links yawning to fever.",
+      "why": "This air-and-fever idea shaped medicine for about 2,000 years.",
+      "box": "theories",
+      "sources": [
+        1
+      ]
+    },
+    {
+      "year": 50,
+      "date": "1st century CE",
+      "era": "humours",
+      "art": "scroll",
+      "title": "Pliny links yawning to danger",
+      "who": "Pliny the Elder",
+      "where": "Rome",
+      "country": "Italy",
+      "text": "The Roman writer Pliny the Elder noted that repeated yawning with heavy bleeding could signal that death was near. Galen and Celsus later built on the Hippocratic wind idea.",
+      "why": "Yawning became a sign doctors watched for at the bedside.",
+      "sources": [
+        1
+      ]
+    },
+    {
+      "year": 850,
+      "date": "9th century CE",
+      "era": "humours",
+      "art": "quill",
+      "title": "Hadith collections give advice on yawning",
+      "who": "al-Bukhari and Muslim ibn al-Hajjaj (compilers)",
+      "where": "Central Asia and the Islamic world",
+      "country": "",
+      "text": "Two major Sunni hadith collections record sayings of the Prophet Muhammad about yawning. One says yawning is from Satan, so a person should hold it back as far as they can. Another says to cover the mouth with the hand when yawning.",
+      "why": "It is one of the oldest written customs about yawning, and it gave covering the mouth a religious meaning.",
+      "sources": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "year": 1550,
+      "date": "16th century",
+      "era": "humours",
+      "art": "thermometer",
+      "title": "Fernel calls yawning a short fever",
+      "who": "Jean Fernel",
+      "where": "France",
+      "country": "France",
+      "text": "The French physician Jean Fernel (1497–1558) described yawning as an \"ephemeral fever\". He saw it as a warning sign that came before a feverish illness. He still explained it with the old theory of humours.",
+      "why": "He tied yawning to body heat, an idea that returned in a new form centuries later.",
+      "box": "cooling",
+      "sources": [
+        1
+      ]
+    },
+    {
+      "year": 1755,
+      "date": "1755",
+      "era": "humours",
+      "art": "heart",
+      "title": "The oxygen idea is born",
+      "who": "Johannes de Gorter",
+      "where": "Netherlands",
+      "country": "Netherlands",
+      "text": "In 1755 Johannes de Gorter linked yawning to faster blood flow and a brain short of blood. Albrecht von Haller soon tied yawning to breathing and blood flow through the lungs. These ideas grew into the belief that yawning brings more oxygen to the brain.",
+      "why": "The oxygen belief lasted for about two centuries and is still repeated today.",
+      "box": "theories",
+      "sources": [
+        1
+      ]
+    },
+    {
+      "year": 1794,
+      "date": "1794",
+      "era": "clinic",
+      "art": "muscle",
+      "title": "A paralysed arm moves during a yawn",
+      "who": "Erasmus Darwin",
+      "where": "England",
+      "country": "United Kingdom",
+      "text": "In his book Zoonomia, Erasmus Darwin described people with one-sided paralysis whose weak arm moved when they yawned.",
+      "why": "It hinted that yawning runs on deep, automatic circuits in the nervous system.",
+      "sources": [
+        1
+      ]
+    },
+    {
+      "year": 1872,
+      "date": "before 1872",
+      "era": "clinic",
+      "art": "eye",
+      "title": "Charles Darwin notes tears in a yawn",
+      "who": "Charles Darwin",
+      "where": "England",
+      "country": "United Kingdom",
+      "text": "While gathering material for The Expression of the Emotions (1872), Darwin wrote a note that tears came into his son George's eyes when yawning. He thought the eye muscles squeezed shut during the violent yawn.",
+      "why": "Darwin treated the yawn as a full-body action worth studying, not just a breath.",
+      "box": "anatomy",
+      "sources": [
+        5
+      ]
+    },
+    {
+      "year": 1888,
+      "date": "1888",
+      "era": "clinic",
+      "art": "brain",
+      "title": "A patient who yawned 480 times an hour",
+      "who": "Jean-Martin Charcot",
+      "where": "Paris",
+      "country": "France",
+      "text": "The neurologist Charcot presented a 17-year-old patient who yawned about 480 times an hour. He linked it to hysteria and a brain short of oxygen. Walusinski later suggested a pituitary tumour was the more likely cause.",
+      "why": "Odd yawning became a clue in brain medicine.",
+      "sources": [
+        1
+      ]
+    },
+    {
+      "year": 1921,
+      "date": "1921–1924",
+      "era": "clinic",
+      "art": "muscle",
+      "title": "Yawning is called a stretch, not a breath",
+      "who": "Dumpert and Claparède",
+      "where": "Europe",
+      "country": "",
+      "text": "Dumpert in 1921 and Édouard Claparède in 1924 argued that yawning is part of a stretching reflex. They did not see it as a breathing act.",
+      "why": "It started the idea that a yawn is a movement program, like a stretch.",
+      "box": "anatomy",
+      "sources": [
+        1
+      ]
+    },
+    {
+      "year": 1923,
+      "date": "1923",
+      "era": "clinic",
+      "art": "skeleton",
+      "title": "Walshe sees paralysed arms rise in a yawn",
+      "who": "Sir Francis Walshe",
+      "where": "Britain",
+      "country": "United Kingdom",
+      "text": "The British neurologist Francis Walshe noted that when people paralysed on one side by a stroke yawn, the paralysed arm can rise and bend on its own. The patients were startled by it.",
+      "why": "It showed that yawning uses brain pathways that work even when voluntary movement is lost.",
+      "sources": [
+        0
+      ]
+    },
+    {
+      "year": 1946,
+      "date": "1946",
+      "era": "clinic",
+      "art": "brain",
+      "title": "A review points to the brainstem",
+      "who": "A. P. Heusner",
+      "where": "USA",
+      "country": "USA",
+      "text": "Heusner reviewed what was known about yawning in Physiological Reviews. He proposed that the brainstem and basal ganglia control it.",
+      "why": "Yawning was now seen as something run by old, deep parts of the brain.",
+      "box": "theories",
+      "sources": [
+        1
+      ]
+    },
+    {
+      "year": 1958,
+      "date": "August 1958",
+      "era": "clinic",
+      "art": "xray",
+      "key": true,
+      "title": "X-rays show the throat opening wide",
+      "who": "Jacques Barbizet",
+      "where": "France",
+      "country": "France",
+      "text": "Barbizet published a paper titled simply \"Yawning\" in a British neurology journal. Using X-ray viewing, he found that the throat and voice box widen to about four times their resting size at the peak of a yawn.",
+      "why": "It measured what happens inside the head during a yawn for the first time.",
+      "box": "anatomy",
+      "sources": [
+        6,
+        1
+      ]
+    },
+    {
+      "year": 1982,
+      "date": "1982",
+      "era": "experiment",
+      "art": "xray",
+      "key": true,
+      "title": "Ultrasound catches yawns before birth",
+      "who": "J. I. P. de Vries, G. H. A. Visser and H. F. R. Prechtl",
+      "where": "",
+      "country": "",
+      "text": "Ultrasound studies of fetal movement found that babies yawn in the womb. Yawning appears by the end of the first trimester, around 11 to 15 weeks, and often comes with stretching.",
+      "why": "Yawning is one of the earliest behaviours a human body shows.",
+      "box": "babies",
+      "sources": [
+        0,
+        10,
+        11
+      ]
+    },
+    {
+      "year": 1986,
+      "date": "1986",
+      "era": "experiment",
+      "art": "person",
+      "key": true,
+      "title": "A stopwatch study of the yawn",
+      "who": "Robert Provine",
+      "where": "University of Maryland, Baltimore County, USA",
+      "country": "USA",
+      "text": "Provine had volunteers think about yawning and press a button for the length of each yawn. A yawn lasted about six seconds on average. Once started it ran to the end, like a sneeze, so he called it a fixed action pattern.",
+      "why": "It turned yawning into something people could measure in a lab.",
+      "box": "anatomy",
+      "sources": [
+        0,
+        1,
+        39
+      ]
+    },
+    {
+      "year": 1986,
+      "date": "1986",
+      "era": "experiment",
+      "art": "eye",
+      "title": "Seeing a yawn triggers a yawn",
+      "who": "Robert Provine",
+      "where": "University of Maryland, Baltimore County, USA",
+      "country": "USA",
+      "text": "Volunteers watched five minutes of a man yawning. 55% yawned, against 21% who watched smiles. Faces with the mouth hidden still worked, so it is the whole face that sets off the yawn.",
+      "why": "It gave contagious yawning its first hard numbers.",
+      "box": "contagion",
+      "sources": [
+        0
+      ]
+    },
+    {
+      "year": 1987,
+      "date": "1987",
+      "era": "experiment",
+      "art": "flask",
+      "key": true,
+      "title": "Gas tests sink the oxygen myth",
+      "who": "Robert Provine, B. C. Tate and L. Geldmacher",
+      "where": "University of Maryland, Baltimore County, USA",
+      "country": "USA",
+      "text": "Students breathed normal air, pure oxygen, or air with 3% or 5% carbon dioxide. Extra carbon dioxide made them breathe much faster, but they did not yawn more. Pure oxygen did not stop yawns. Exercise that nearly doubled breathing did not change yawning either.",
+      "why": "Breathing and yawning turned out to be separate systems, so yawning is probably not about oxygen.",
+      "box": "theories",
+      "sources": [
+        0,
+        7,
+        8
+      ]
+    },
+    {
+      "year": 2003,
+      "date": "2003",
+      "era": "contagion",
+      "art": "person",
+      "title": "Young children do not catch yawns",
+      "who": "James R. Anderson and Pauline Meno",
+      "where": "University of Stirling, Scotland",
+      "country": "United Kingdom",
+      "text": "The team tested 87 children aged 2 to 11 with yawning videos and a yawning story. Children under 5 did not catch yawns from the videos. Older children caught them more and more with age.",
+      "why": "Contagious yawning develops years after the first yawns in the womb.",
+      "box": "babies",
+      "sources": [
+        12,
+        0
+      ]
+    },
+    {
+      "year": 2003,
+      "date": "2003–2005",
+      "era": "contagion",
+      "art": "brain",
+      "title": "Yawn catching is linked to thinking about others",
+      "who": "Steven Platek, Gordon Gallup Jr. and colleagues",
+      "where": "State University of New York at Albany and Drexel University, USA",
+      "country": "USA",
+      "text": "Platek's team found that people with more schizotypal traits, who find it harder to read others' minds, caught fewer yawns. A 2005 brain scan study found activity in areas used for thinking about the self and others.",
+      "why": "It started the long debate about yawning and empathy.",
+      "box": "contagion",
+      "sources": [
+        0
+      ]
+    },
+    {
+      "year": 2004,
+      "date": "2004",
+      "era": "contagion",
+      "art": "eye",
+      "key": true,
+      "title": "Chimpanzees catch yawns from video",
+      "who": "James R. Anderson, Masako Myowa-Yamakoshi and Tetsuro Matsuzawa",
+      "where": "University of Stirling (Scotland), University of Shiga Prefecture and Kyoto University (Japan)",
+      "country": "",
+      "text": "Six adult female chimpanzees watched videos of chimps yawning or making other mouth movements. Two of the six yawned clearly more after the yawning videos.",
+      "why": "It was the first sign that another species catches yawns too.",
+      "box": "animals",
+      "sources": [
+        13,
+        0
+      ]
+    },
+    {
+      "year": 2005,
+      "date": "November 2005",
+      "era": "experiment",
+      "art": "word",
+      "title": "Reading about yawns makes people yawn",
+      "who": "Robert Provine",
+      "where": "USA",
+      "country": "USA",
+      "text": "In a review for American Scientist, Provine reported that 30% of people who read about yawning for five minutes yawned. Only 11% did after reading about hiccups. Just thinking about yawning made 88% yawn within 30 minutes.",
+      "why": "Even words can trigger the yawn program.",
+      "box": "contagion",
+      "sources": [
+        0
+      ]
+    },
+    {
+      "year": 2006,
+      "date": "2006",
+      "era": "contagion",
+      "art": "eye",
+      "title": "Monkeys yawn more at yawn videos, but why?",
+      "who": "A. Paukner and James R. Anderson",
+      "where": "University of Stirling, Scotland",
+      "country": "United Kingdom",
+      "text": "Twenty-two stumptail macaques yawned more while watching yawn clips. But the clips also made them scratch more, so tension might explain it.",
+      "why": "It showed how hard it is to tell true contagion from stress.",
+      "box": "animals",
+      "sources": [
+        38
+      ]
+    },
+    {
+      "year": 2007,
+      "date": "May–June 2007",
+      "era": "cooling",
+      "art": "thermometer",
+      "key": true,
+      "title": "The brain-cooling idea is tested",
+      "who": "Andrew C. Gallup and Gordon G. Gallup Jr.",
+      "where": "University at Albany, New York, USA",
+      "country": "USA",
+      "text": "Volunteers watched videos of people yawning. About half yawned if they breathed normally or through the mouth. People who breathed only through the nose, or held a cold pack to the forehead, did not yawn. Warm or room-temperature packs made no difference.",
+      "why": "It launched the idea that yawning helps cool the brain.",
+      "box": "cooling",
+      "sources": [
+        14,
+        8
+      ]
+    },
+    {
+      "year": 2007,
+      "date": "2007",
+      "era": "contagion",
+      "art": "person",
+      "title": "Children with autism catch fewer yawns",
+      "who": "Atsushi Senju, Makiko Maeda, Toshikazu Hasegawa and colleagues",
+      "where": "Birkbeck, University of London, and University of Tokyo",
+      "country": "",
+      "text": "Typical children yawned more at yawning videos than at control videos. Children with autism did not. The authors suggested a link to empathy.",
+      "why": "It made yawning a test case in autism research.",
+      "box": "contagion",
+      "sources": [
+        15
+      ]
+    },
+    {
+      "year": 2008,
+      "date": "2008",
+      "era": "contagion",
+      "art": "eye",
+      "title": "Dogs catch human yawns",
+      "who": "Ramiro Joly-Mascheroni, Atsushi Senju and Alex Shepherd",
+      "where": "Birkbeck, University of London",
+      "country": "United Kingdom",
+      "text": "A stranger yawned in front of 29 dogs. 21 of them, or 72%, yawned too. None yawned when the person only opened and closed the mouth.",
+      "why": "Yawns can jump between species.",
+      "box": "animals",
+      "sources": [
+        16
+      ]
+    },
+    {
+      "year": 2009,
+      "date": "2009",
+      "era": "contagion",
+      "art": "eye",
+      "title": "Gelada monkeys catch yawns from close friends",
+      "who": "Elisabetta Palagi and colleagues",
+      "where": "University of Pisa, Italy",
+      "country": "Italy",
+      "text": "Researchers recorded 3,229 yawns in gelada monkeys. Yawns spread most between animals that groomed each other often. Adult females even copied the type of yawn they saw.",
+      "why": "Emotional closeness, not just distance, predicted who caught a yawn.",
+      "box": "animals",
+      "sources": [
+        17
+      ]
+    },
+    {
+      "year": 2010,
+      "date": "September 2010",
+      "era": "contagion",
+      "art": "person",
+      "title": "Age four is the turning point",
+      "who": "Molly Helt, Inge-Marie Eigsti, Peter Snyder and Deborah Fein",
+      "where": "University of Connecticut, USA",
+      "country": "USA",
+      "text": "Among 120 children aged 1 to 6, almost none under 4 caught a yawn. At age four, 7 of 20 did. Children with autism caught yawns about half as often as other children.",
+      "why": "It pinned down when contagious yawning appears in childhood.",
+      "box": "babies",
+      "sources": [
+        18
+      ]
+    },
+    {
+      "year": 2010,
+      "date": "2010",
+      "era": "cooling",
+      "art": "brain",
+      "title": "Rat brains cool after a yawn",
+      "who": "M. L. Shoup-Knox, A. C. Gallup, G. G. Gallup Jr. and E. C. McNay",
+      "where": "University at Albany, USA",
+      "country": "USA",
+      "text": "Sensors in rats' brains showed temperature rising just before yawns and stretches. After a yawn the brain cooled by about 0.11 °C on average.",
+      "why": "It was direct evidence linking yawns to brain temperature.",
+      "box": "cooling",
+      "sources": [
+        19,
+        8
+      ]
+    },
+    {
+      "year": 2011,
+      "date": "2011",
+      "era": "cooling",
+      "art": "thermometer",
+      "key": true,
+      "title": "People yawn less in hot Arizona summers",
+      "who": "Andrew C. Gallup and Omar T. Eldakar",
+      "where": "Tucson, Arizona, USA",
+      "country": "USA",
+      "text": "Pedestrians looked at pictures of people yawning. In winter, at about 22 °C, 45% yawned. In early summer, at about 37 °C, only about 24% did.",
+      "why": "When air is as warm as the body, a yawn cannot cool the brain, so the theory predicted fewer yawns.",
+      "box": "cooling",
+      "sources": [
+        20,
+        8
+      ]
+    },
+    {
+      "year": 2011,
+      "date": "2011",
+      "era": "contagion",
+      "art": "eye",
+      "title": "Chimps catch yawns from their own group",
+      "who": "Matthew W. Campbell and Frans B. M. de Waal",
+      "where": "Yerkes National Primate Research Center, Emory University, USA",
+      "country": "USA",
+      "text": "Twenty-three chimpanzees watched videos. They yawned more when familiar group members yawned than when strangers yawned.",
+      "why": "It added to the evidence that social ties shape contagion.",
+      "box": "animals",
+      "sources": [
+        21
+      ]
+    },
+    {
+      "year": 2011,
+      "date": "December 2011",
+      "era": "contagion",
+      "art": "person",
+      "title": "We catch yawns most from family",
+      "who": "Ivan Norscia and Elisabetta Palagi",
+      "where": "University of Pisa, Italy",
+      "country": "Italy",
+      "text": "The team watched 109 adults in everyday places such as workplaces and restaurants. Yawns spread most between relatives, then friends, then acquaintances, and least between strangers.",
+      "why": "Closeness, not just seeing a yawn, sets how catching it is.",
+      "box": "contagion",
+      "sources": [
+        22
+      ]
+    },
+    {
+      "year": 2012,
+      "date": "November 2012",
+      "era": "experiment",
+      "art": "xray",
+      "title": "4D scans track fetal yawns",
+      "who": "Nadja Reissland, Brian Francis and James Mason",
+      "where": "Durham University and Lancaster University, England",
+      "country": "United Kingdom",
+      "text": "The team scanned 15 healthy fetuses four times between 24 and 36 weeks. They told yawns apart from other mouth openings by timing: a yawn opens slowly and closes fast. Both became less frequent as the fetus grew.",
+      "why": "It gave doctors a way to tell a real fetal yawn from a simple mouth opening.",
+      "box": "babies",
+      "sources": [
+        9
+      ]
+    },
+    {
+      "year": 2012,
+      "date": "2011–2012",
+      "era": "experiment",
+      "art": "heart",
+      "title": "Measuring the body during a yawn",
+      "who": "T. P. Corey, M. L. Shoup-Knox, E. B. Gordis and G. G. Gallup Jr.",
+      "where": "University at Albany, USA",
+      "country": "USA",
+      "text": "Volunteers wore sensors while they yawned. Heart rate rose at the yawn's peak and just after. Lung volume peaked at the top of the yawn, and eye muscles tightened.",
+      "why": "It showed a yawn changes heart, lungs and face all at once.",
+      "box": "anatomy",
+      "sources": [
+        31
+      ]
+    },
+    {
+      "year": 2013,
+      "date": "August 2013",
+      "era": "contagion",
+      "art": "eye",
+      "title": "Dogs catch their owners' yawns more",
+      "who": "Teresa Romero, Akitsugu Konno and Toshikazu Hasegawa",
+      "where": "University of Tokyo, Japan",
+      "country": "Japan",
+      "text": "Twenty-five pet dogs yawned more when their owner yawned than when a stranger did. Their heart rates did not suggest stress.",
+      "why": "It linked yawn contagion in dogs to social bonds.",
+      "box": "animals",
+      "sources": [
+        23
+      ]
+    },
+    {
+      "year": 2013,
+      "date": "2013",
+      "era": "contagion",
+      "art": "eye",
+      "title": "Where children look changes the result",
+      "who": "Saori Usui, Atsushi Senju, Toshikazu Hasegawa and colleagues",
+      "where": "University of Tokyo, Japan",
+      "country": "Japan",
+      "text": "Yawn clips only began when a child looked at the face. With this change, children with autism caught yawns as much as other children.",
+      "why": "Weaker attention to faces, not a missing ability, may explain earlier results.",
+      "box": "contagion",
+      "sources": [
+        24
+      ]
+    },
+    {
+      "year": 2014,
+      "date": "March 2014",
+      "era": "contagion",
+      "art": "person",
+      "title": "A large study finds age matters most",
+      "who": "Alex J. Bartholomew and Elizabeth T. Cirulli",
+      "where": "Duke University School of Medicine, North Carolina, USA",
+      "country": "USA",
+      "text": "Of 328 healthy volunteers, 68% yawned at least once while watching yawn videos. Older people caught fewer yawns. Empathy, intelligence and time of day did not explain who yawned once age was counted.",
+      "why": "It challenged the simple idea that contagious yawning measures empathy.",
+      "box": "contagion",
+      "sources": [
+        25
+      ]
+    },
+    {
+      "year": 2014,
+      "date": "April–May 2014",
+      "era": "cooling",
+      "art": "thermometer",
+      "title": "A thermal window for yawning",
+      "who": "Jorg Massen, Kim Dusch, Omar Eldakar and Andrew Gallup",
+      "where": "University of Vienna, Austria",
+      "country": "Austria",
+      "text": "In Vienna, people yawned more in summer than in winter, the opposite of Arizona. Contagious yawning was most common around 20 °C. It dropped near freezing and near body temperature.",
+      "why": "The thermal window, not the season, fit both cities.",
+      "box": "cooling",
+      "sources": [
+        26
+      ]
+    },
+    {
+      "year": 2014,
+      "date": "August 2014",
+      "era": "contagion",
+      "art": "night",
+      "title": "Wolves catch yawns from close partners",
+      "who": "Teresa Romero, Marie Ito, Atsuko Saito and Toshikazu Hasegawa",
+      "where": "University of Tokyo; wolves at Tama Zoological Park, Tokyo",
+      "country": "Japan",
+      "text": "Twelve wolves at a Tokyo zoo yawned more after another wolf yawned. They responded most to close social partners.",
+      "why": "Dogs' wild relatives show the same social pattern.",
+      "box": "animals",
+      "sources": [
+        27
+      ]
+    },
+    {
+      "year": 2015,
+      "date": "May 2015",
+      "era": "contagion",
+      "art": "eye",
+      "title": "Budgerigars: the first bird to catch yawns",
+      "who": "Andrew Gallup and colleagues",
+      "where": "State University of New York, USA",
+      "country": "USA",
+      "text": "Sixteen budgerigars yawned about three times as often when they could see each other. They yawned about twice as often when watching a video of a yawning budgie.",
+      "why": "It was the first experimental evidence of contagious yawning outside mammals.",
+      "box": "animals",
+      "sources": [
+        28
+      ]
+    },
+    {
+      "year": 2016,
+      "date": "October 2016",
+      "era": "cooling",
+      "art": "brain",
+      "key": true,
+      "title": "Bigger brains, longer yawns",
+      "who": "Andrew C. Gallup, A. M. Church and A. J. Pelegrino",
+      "where": "SUNY Oneonta, New York, USA",
+      "country": "USA",
+      "text": "The team timed yawns in online videos of 19 mammal species, from about 0.8 seconds in mice to about 6.5 seconds in people. Longer average yawns went with heavier brains and more cortical neurons.",
+      "why": "If yawns cool the brain, bigger brains might need longer yawns.",
+      "box": "animals",
+      "sources": [
+        29,
+        30
+      ]
+    },
+    {
+      "year": 2019,
+      "date": "2019–2020",
+      "era": "cooling",
+      "art": "brain",
+      "title": "Dog breeds with bigger brains yawn longer",
+      "who": "Andrew C. Gallup, L. Moscatello and Jorg J. M. Massen",
+      "where": "",
+      "country": "",
+      "text": "The team timed 272 yawns from 198 dogs of 23 breeds. Breed averages ran from about 1.4 to 2.8 seconds. Breeds with heavier brains yawned longer, even after body size was taken into account.",
+      "why": "The brain-size pattern held within one species too.",
+      "box": "animals",
+      "sources": [
+        40
+      ]
+    },
+    {
+      "year": 2021,
+      "date": "April 2021",
+      "era": "contagion",
+      "art": "eye",
+      "title": "Wild lions catch yawns and move together",
+      "who": "Grazia Casetta, Andrea Paolo Nolfo and Elisabetta Palagi",
+      "where": "University of Pisa, Italy; field site in South Africa",
+      "country": "South Africa",
+      "text": "The team filmed 19 wild lions in South Africa for four months. A lion that saw a pride mate yawn was far more likely to yawn within three minutes. Afterwards the two often moved in step.",
+      "why": "Catching yawns may help a group act together.",
+      "box": "animals",
+      "sources": [
+        32,
+        33
+      ]
+    },
+    {
+      "year": 2021,
+      "date": "May 2021",
+      "era": "cooling",
+      "art": "brain",
+      "key": true,
+      "title": "101 species timed, birds included",
+      "who": "Jorg Massen, Margarita Hartlieb, Andrew Gallup and colleagues",
+      "where": "Utrecht University, University of Vienna and partners",
+      "country": "Netherlands",
+      "text": "Researchers timed 1,291 yawns from 55 mammal and 46 bird species. In both groups, bigger brains with more neurons meant longer yawns. Mammals yawned longer than birds with brains of the same size.",
+      "why": "The link between brain and yawn length holds across warm-blooded animals.",
+      "box": "animals",
+      "sources": [
+        34,
+        35,
+        36
+      ]
+    },
+    {
+      "year": 2024,
+      "date": "2024–2025",
+      "era": "contagion",
+      "art": "horse",
+      "title": "Horses catch yawns from friends",
+      "who": "Alice Galotti, Martina Romano, Paolo Baragli and Elisabetta Palagi",
+      "where": "University of Pisa, Italy",
+      "country": "Italy",
+      "text": "Researchers watched 48 horses on pasture. Yawns were answered far more often after a yawn than after chewing. Horses caught yawns most from kin and grooming partners.",
+      "why": "Yawn contagion turns up in a grazing animal too.",
+      "box": "animals",
+      "sources": [
+        37
+      ]
+    },
+    {
+      "year": 2026,
+      "date": "February 2026",
+      "era": "experiment",
+      "art": "xray",
+      "title": "Fetal yawns and birth weight",
+      "who": "Damiano Menin, Paola Veronese, Maria Teresa Gervasi and colleagues",
+      "where": "Universities of Ferrara and Padua, Italy",
+      "country": "Italy",
+      "text": "Ultrasound scans of 32 fetuses between 23 and 31 weeks counted under five yawns an hour on average. Fetuses that yawned more tended to have slightly lower birth weight. The authors say this needs checking.",
+      "why": "Fetal yawning may one day help doctors check on a baby before birth.",
+      "box": "babies",
+      "sources": [
+        10
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "Oldest known medical theory of yawning",
+      "value": "c. 400 BCE",
+      "who": "Hippocratic treatise On Winds, Greece"
+    },
+    {
+      "label": "Fetal yawns seen on ultrasound",
+      "value": "1982",
+      "who": "J. I. P. de Vries, G. H. A. Visser and H. F. R. Prechtl"
+    },
+    {
+      "label": "Oxygen and carbon dioxide idea tested",
+      "value": "1987",
+      "who": "Robert Provine and colleagues, USA"
+    },
+    {
+      "label": "Contagious yawning shown in chimpanzees",
+      "value": "2004",
+      "who": "Anderson, Myowa-Yamakoshi and Matsuzawa (chimpanzees)"
+    },
+    {
+      "label": "Experimental evidence of yawn contagion in a bird",
+      "value": "2015",
+      "who": "Andrew Gallup and colleagues (budgerigars), USA"
+    },
+    {
+      "label": "Largest yawn-timing survey",
+      "value": "101 species, 2021",
+      "who": "Jorg Massen, Andrew Gallup and colleagues"
+    }
+  ],
+  "people": [
+    {
+      "name": "al-Bukhari",
+      "life": "810 – 870",
+      "role": "Compiler of hadith",
+      "from": "Bukhara, Central Asia",
+      "note": "His collection records advice to hold back a yawn."
+    },
+    {
+      "name": "Jacques Barbizet",
+      "life": "",
+      "role": "Neurologist",
+      "from": "France",
+      "note": "Measured with X-rays how far the throat opens in a yawn."
+    },
+    {
+      "name": "Robert Provine",
+      "life": "1943 – 2019",
+      "role": "Neuroscientist and psychologist, UMBC",
+      "from": "United States",
+      "note": "Timed the yawn, showed it spreads by sight and reading, and tested the oxygen myth."
+    },
+    {
+      "name": "Olivier Walusinski",
+      "life": "",
+      "role": "Physician and historian of yawning",
+      "from": "France",
+      "note": "Gathered the history and medicine of yawning and edited a book on it."
+    },
+    {
+      "name": "Andrew C. Gallup",
+      "life": "",
+      "role": "Psychologist",
+      "from": "United States",
+      "note": "Led much of the work on yawning and brain cooling, and on yawn length and brain size."
+    },
+    {
+      "name": "James R. Anderson",
+      "life": "",
+      "role": "Psychologist, University of Stirling",
+      "from": "Scotland",
+      "note": "Showed that young children and, with colleagues, chimpanzees catch yawns differently."
+    },
+    {
+      "name": "Masako Myowa-Yamakoshi",
+      "life": "",
+      "role": "Comparative psychologist",
+      "from": "Japan",
+      "note": "Co-author of the first study of contagious yawning in chimpanzees."
+    },
+    {
+      "name": "Tetsuro Matsuzawa",
+      "life": "",
+      "role": "Primatologist, Kyoto University",
+      "from": "Japan",
+      "note": "Co-author of the first study of contagious yawning in chimpanzees."
+    },
+    {
+      "name": "Atsushi Senju",
+      "life": "",
+      "role": "Developmental scientist, Birkbeck, University of London",
+      "from": "United Kingdom",
+      "note": "Studied yawn contagion in autism and in dogs."
+    },
+    {
+      "name": "Ramiro Joly-Mascheroni",
+      "life": "",
+      "role": "Psychologist, Birkbeck",
+      "from": "United Kingdom",
+      "note": "Led the study showing dogs catch human yawns."
+    },
+    {
+      "name": "Elisabetta Palagi",
+      "life": "",
+      "role": "Ethologist, University of Pisa",
+      "from": "Italy",
+      "note": "Studied yawn contagion in geladas, people, lions and horses."
+    },
+    {
+      "name": "Ivan Norscia",
+      "life": "",
+      "role": "Primatologist, University of Pisa",
+      "from": "Italy",
+      "note": "Showed people catch yawns most from family and friends."
+    },
+    {
+      "name": "Teresa Romero",
+      "life": "",
+      "role": "Animal behaviour researcher, University of Tokyo",
+      "from": "Japan",
+      "note": "Studied yawn contagion in dogs and wolves."
+    },
+    {
+      "name": "Toshikazu Hasegawa",
+      "life": "",
+      "role": "Cognitive scientist, University of Tokyo",
+      "from": "Japan",
+      "note": "Co-led studies on yawning in children, dogs and wolves."
+    },
+    {
+      "name": "Molly Helt",
+      "life": "",
+      "role": "Psychologist",
+      "from": "United States",
+      "note": "Found that contagious yawning jumps at about age four."
+    },
+    {
+      "name": "Nadja Reissland",
+      "life": "",
+      "role": "Psychologist, Durham University",
+      "from": "United Kingdom",
+      "note": "Used 4D scans to tell fetal yawns from other mouth openings."
+    },
+    {
+      "name": "Saori Usui",
+      "life": "",
+      "role": "Researcher, University of Tokyo",
+      "from": "Japan",
+      "note": "Showed children with autism catch yawns when guided to look at faces."
+    },
+    {
+      "name": "Jorg Massen",
+      "life": "",
+      "role": "Biologist, Utrecht University",
+      "from": "Netherlands",
+      "note": "Tested the thermal window in Vienna and timed yawns in 101 species."
+    },
+    {
+      "name": "Grazia Casetta",
+      "life": "",
+      "role": "Ethologist, University of Pisa",
+      "from": "Italy",
+      "note": "Led the study of yawn contagion in wild lions."
+    }
+  ],
+  "series": [
+    {
+      "id": "catchers",
+      "title": "Animals shown to catch yawns, in this history",
+      "unit": "species",
+      "log": false,
+      "after": "contagion",
+      "caption": "A running count of the non-human species in the studies above. It is not a full census, and some results are still debated.",
+      "points": [
+        {
+          "year": 2004,
+          "value": 1,
+          "label": "2004: chimpanzees"
+        },
+        {
+          "year": 2006,
+          "value": 2,
+          "label": "2006: stumptail macaques (stress may explain it)"
+        },
+        {
+          "year": 2008,
+          "value": 3,
+          "label": "2008: dogs, from humans"
+        },
+        {
+          "year": 2009,
+          "value": 4,
+          "label": "2009: gelada monkeys"
+        },
+        {
+          "year": 2014,
+          "value": 5,
+          "label": "2014: wolves"
+        },
+        {
+          "year": 2015,
+          "value": 6,
+          "label": "2015: budgerigars, the first bird"
+        },
+        {
+          "year": 2021,
+          "value": 7,
+          "label": "2021: wild lions"
+        },
+        {
+          "year": 2024,
+          "value": 8,
+          "label": "2024–25: horses"
+        }
+      ]
+    },
+    {
+      "id": "timed",
+      "title": "How many species have had their yawns timed",
+      "unit": "species",
+      "log": false,
+      "after": "cooling",
+      "caption": "Yawn-length studies grew from 19 mammals in 2016 to 101 mammals and birds in 2021.",
+      "points": [
+        {
+          "year": 2016,
+          "value": 19,
+          "label": "2016: 19 mammal species (Gallup and colleagues)"
+        },
+        {
+          "year": 2021,
+          "value": 101,
+          "label": "2021: 55 mammal and 46 bird species (Massen and colleagues)"
+        }
+      ]
+    }
+  ],
+  "facts": [
+    "Yawning is present by the end of the first trimester, long before a baby is born.",
+    "Breathing air with over 100 times the normal carbon dioxide made people breathe harder, but not yawn more.",
+    "Covering your mouth will not stop a yawn spreading: faces with the mouth hidden were just as catching.",
+    "In one study, 30% of people who read about yawning for five minutes yawned. You may be one of them now.",
+    "Average yawns ran from about 0.8 seconds in mice to about 6.5 seconds in people in a 2016 study."
+  ],
+  "sources": [
+    {
+      "title": "Yawning (Robert R. Provine, Nov–Dec 2005)",
+      "publisher": "American Scientist",
+      "url": "https://www.americanscientist.org/article/yawning"
+    },
+    {
+      "title": "Historical perspectives on yawning (Olivier Walusinski)",
+      "publisher": "baillement.com",
+      "url": "https://baillement.com/english/history.html"
+    },
+    {
+      "title": "Sahih al-Bukhari 6223: Sneezing and yawning",
+      "publisher": "Sunnah.com",
+      "url": "https://sunnah.com/bukhari:6223"
+    },
+    {
+      "title": "Sahih Muslim 2995a: Yawning is disliked",
+      "publisher": "Sunnah.com",
+      "url": "https://sunnah.com/muslim:2995a"
+    },
+    {
+      "title": "al-Bukhari",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/al-Bukhari"
+    },
+    {
+      "title": "Tears come into George's eyes when yawning (CUL-DAR195.4.43)",
+      "publisher": "Darwin Online (Cambridge University Library material)",
+      "url": "https://darwin-online.org.uk/converted/manuscripts/Darwin_C_R_CUL-DAR195.4.43.html"
+    },
+    {
+      "title": "Yawning (Barbizet, 1958), J Neurol Neurosurg Psychiatry 21:203–209",
+      "publisher": "PubMed Central (BMJ)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC497319/"
+    },
+    {
+      "title": "Provine, Tate & Geldmacher (1987): Yawning, no effect of 3–5% CO2, 100% O2 and exercise",
+      "publisher": "baillement.com",
+      "url": "https://www.baillement.com/provine5.html"
+    },
+    {
+      "title": "The thermoregulatory theory of yawning: what we know from over 5 years of research (Gallup & Eldakar, 2013)",
+      "publisher": "Frontiers in Neuroscience (PubMed Central)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3534187/"
+    },
+    {
+      "title": "Development of fetal yawn compared with non-yawn mouth openings from 24–36 weeks gestation (Reissland et al., 2012)",
+      "publisher": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0050569"
+    },
+    {
+      "title": "Fetal yawning and mouth openings: frequency, developmental trends, and association with birth weight (Menin et al., 2026)",
+      "publisher": "PLOS ONE (PubMed Central)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12935229/"
+    },
+    {
+      "title": "Fetal yawning (Walusinski), in The Mystery of Yawning in Physiology and Disease (2010)",
+      "publisher": "Karger",
+      "url": "https://karger.com/books/book/2691/chapter/5762516/Fetal-Yawning"
+    },
+    {
+      "title": "Psychological influences on yawning in children (Anderson & Meno, 2003)",
+      "publisher": "Current Psychology Letters (OpenEdition)",
+      "url": "https://journals.openedition.org/cpl/390"
+    },
+    {
+      "title": "Contagious yawning in chimpanzees (Anderson, Myowa-Yamakoshi & Matsuzawa, 2004)",
+      "publisher": "Proceedings of the Royal Society B (PubMed Central)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1810104/"
+    },
+    {
+      "title": "Yawning may cool the brain (news release, June 2007)",
+      "publisher": "University at Albany, SUNY",
+      "url": "https://www.albany.edu/campusnews/releases_368.htm"
+    },
+    {
+      "title": "Absence of contagious yawning in children with autism spectrum disorder (Senju et al., 2007)",
+      "publisher": "Biology Letters (PubMed Central)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2391210/"
+    },
+    {
+      "title": "Dogs catch human yawns (Joly-Mascheroni, Senju & Shepherd, 2008)",
+      "publisher": "Biology Letters (PubMed Central)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2610100/"
+    },
+    {
+      "title": "Contagious yawning in gelada baboons as a possible expression of empathy (Palagi et al., 2009)",
+      "publisher": "PNAS (PubMed Central)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2780782/"
+    },
+    {
+      "title": "When yawning isn't contagious (September 2010)",
+      "publisher": "UConn Today, University of Connecticut",
+      "url": "https://today.uconn.edu/2010/09/when-yawning-isnt-contagious"
+    },
+    {
+      "title": "Yawning and stretching predict brain temperature changes in rats (Shoup-Knox et al., 2010)",
+      "publisher": "Frontiers in Evolutionary Neuroscience (PubMed Central)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2965053/"
+    },
+    {
+      "title": "Contagious yawning and seasonal climate variation (Gallup & Eldakar, 2011)",
+      "publisher": "Frontiers in Evolutionary Neuroscience (PubMed Central)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3178034/"
+    },
+    {
+      "title": "Ingroup-outgroup bias in contagious yawning by chimpanzees (Campbell & de Waal, 2011)",
+      "publisher": "PLOS ONE (PubMed Central)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3071812/"
+    },
+    {
+      "title": "Yawn contagion and empathy in Homo sapiens (Norscia & Palagi, 2011)",
+      "publisher": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0028472"
+    },
+    {
+      "title": "Familiarity bias and physiological responses in contagious yawning by dogs (Romero, Konno & Hasegawa, 2013)",
+      "publisher": "PLOS ONE (PubMed Central)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3737103/"
+    },
+    {
+      "title": "Presence of contagious yawning in children with autism spectrum disorder (Usui et al., 2013)",
+      "publisher": "Autism Research and Treatment (PubMed Central)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3736493/"
+    },
+    {
+      "title": "Individual variation in contagious yawning susceptibility (Bartholomew & Cirulli, 2014)",
+      "publisher": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0091773"
+    },
+    {
+      "title": "Yawning: frequency people yawn varies with temperature and season (May 2014, University of Vienna)",
+      "publisher": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2014/05/140506120031.htm"
+    },
+    {
+      "title": "Social modulation of contagious yawning in wolves (Romero et al., 2014)",
+      "publisher": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0105963"
+    },
+    {
+      "title": "Life's a yawn for budgie buddies (news release, May 2015)",
+      "publisher": "EurekAlert! (Springer)",
+      "url": "https://www.eurekalert.org/news-releases/660823"
+    },
+    {
+      "title": "Yawn duration predicts brain weight and cortical neuron number in mammals (Gallup, Church & Pelegrino, 2016)",
+      "publisher": "Biology Letters (PubMed Central)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5095190/"
+    },
+    {
+      "title": "Longer yawns signal bigger brains (October 2016)",
+      "publisher": "STAT",
+      "url": "https://www.statnews.com/2016/10/04/yawning-brain-size/"
+    },
+    {
+      "title": "Changes in physiology before, during, and after yawning (Corey et al., 2012)",
+      "publisher": "Frontiers in Evolutionary Neuroscience (PubMed Central)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3251816/"
+    },
+    {
+      "title": "Yawn contagion in lions found to play a role in social behavior (April 2021)",
+      "publisher": "Phys.org",
+      "url": "https://phys.org/news/2021-04-contagion-lions-role-social-behavior.html"
+    },
+    {
+      "title": "Yawning helps lions synchronize their groups' movements (April 2021)",
+      "publisher": "Science News",
+      "url": "https://www.sciencenews.org/article/lion-yawn-contagious-synchronize-group-movement-hunt"
+    },
+    {
+      "title": "Brain size and neuron numbers drive differences in yawn duration across mammals and birds (Massen et al., 2021)",
+      "publisher": "Communications Biology (PubMed Central)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8102614/"
+    },
+    {
+      "title": "Brain size and neuron numbers drive differences in yawn duration across mammals and birds",
+      "publisher": "Nature Portfolio (Communications Biology)",
+      "url": "https://www.nature.com/articles/s42003-021-02019-y"
+    },
+    {
+      "title": "Raw yawn data (Massen et al., 2021), CC0",
+      "publisher": "DataverseNL",
+      "url": "https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/9HENTF"
+    },
+    {
+      "title": "Yawning in sync: implications for social cohesion in horses (Galotti et al., 2025)",
+      "publisher": "Current Zoology (PubMed Central)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12011488/"
+    },
+    {
+      "title": "Video-induced yawning in stumptail macaques (Paukner & Anderson, 2006)",
+      "publisher": "Biology Letters (PubMed Central)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1617183/"
+    },
+    {
+      "title": "Robert Provine, 1943–2019",
+      "publisher": "Association for Psychological Science (Observer)",
+      "url": "https://www.psychologicalscience.org/publications/observer/obsonline/robert-provine-1943-2019.html"
+    },
+    {
+      "title": "Brain weight predicts yawn duration across domesticated dog breeds (Gallup, Moscatello & Massen)",
+      "publisher": "Current Zoology (PubMed Central)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7319467/"
+    }
+  ]
+}

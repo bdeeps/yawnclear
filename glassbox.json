@@ -1,0 +1,111 @@
+{
+  "slug": "yawnclear",
+  "box": 246,
+  "date": "2026-12-13",
+  "title": "YawnClear",
+  "question": "Why do we yawn?",
+  "hook": "You probably yawned before you were born, and reading this might make you yawn now. Scrub through one six-second yawn, test the oxygen myth, see the brain-cooling idea and its thermal window, and watch a yawn spread around a room.",
+  "thumbText": "WHY WE YAWN",
+  "field": "body",
+  "minutes": 14,
+  "tags": [
+    "yawn",
+    "yawning",
+    "contagious yawning",
+    "brain",
+    "body",
+    "biology",
+    "psychology",
+    "animals",
+    "evolution",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "A fixed six-second routine",
+      "text": "A yawn is a built-in sequence: the jaw drops wide with a long, deep breath in, a short peak where the face stretches and the eyes close, then a quicker breath out. A typical adult yawn lasts about 6 seconds, though single yawns vary."
+    },
+    {
+      "title": "Not about oxygen",
+      "text": "The popular idea that we yawn for more oxygen has weak support. In 1987 Robert Provine and colleagues found that breathing air with extra carbon dioxide, or exercising, made people breathe harder but not yawn more, and pure oxygen did not stop yawns."
+    },
+    {
+      "title": "Maybe a brain cooler",
+      "text": "A leading hypothesis (Gallup and Gallup, 2007) is that yawning helps cool the brain by boosting blood flow and drawing in air. It predicts a thermal window: most yawning when the air is mild, less when it is freezing or as hot as the body. It is still debated."
+    },
+    {
+      "title": "Switching gears",
+      "text": "We yawn most around waking, before sleep and when bored. One idea is that yawns help shift the body between states of alertness. No single explanation is settled, and yawning may do more than one job."
+    },
+    {
+      "title": "Catching yawns",
+      "text": "Seeing, hearing or even reading about a yawn can trigger one. Roughly 40 to 60 percent of adults catch yawns in lab studies, and yawns spread most between family and friends. Its link with empathy is debated."
+    },
+    {
+      "title": "Old and widespread",
+      "text": "Fish, reptiles, birds and mammals have been seen to yawn, and dogs can catch yawns from people. Across mammals, species with bigger brains tend to yawn for longer. Humans yawn in the womb from about 11 to 12 weeks, but only start catching yawns at around 4 or 5."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Yawn",
+      "def": "An involuntary wide opening of the mouth with a long, deep breath in, a brief peak and a shorter breath out."
+    },
+    {
+      "term": "Fixed action pattern",
+      "def": "A built-in sequence of movements that, once started, usually runs to the end."
+    },
+    {
+      "term": "Hypothesis",
+      "def": "A proposed explanation that can be tested and could turn out wrong."
+    },
+    {
+      "term": "Brain-cooling hypothesis",
+      "def": "The idea that yawning helps keep the brain at its best working temperature."
+    },
+    {
+      "term": "Thermal window",
+      "def": "The prediction that yawning is most common at moderate air temperatures."
+    },
+    {
+      "term": "Contagious yawning",
+      "def": "Yawning set off by seeing, hearing, reading or thinking about someone else yawning."
+    },
+    {
+      "term": "Spontaneous yawning",
+      "def": "Yawning with no outside trigger, for example when tired or bored."
+    },
+    {
+      "term": "Familiarity bias",
+      "def": "Yawns spread more easily between people, or animals, who know each other well."
+    },
+    {
+      "term": "Eustachian tube",
+      "def": "The tube linking the middle ear to the throat, which a yawn can open, making the ears pop."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "yawnclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    },
+    {
+      "name": "Yawn durations and brain weights (species averages re-plotted in the animals chapter): Massen J.J.M. et al. (2021) Communications Biology 4:503, open dataset on DataverseNL (doi:10.34894/9HENTF)",
+      "license": "CC0 1.0",
+      "url": "https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/9HENTF"
+    }
+  ]
+}
