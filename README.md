@@ -1,5 +1,6 @@
 <!-- glassbox:start -->
 <!-- Generated from glassbox.json by the Glassbox hub (npm run readme -- yawnclear). Edit glassbox.json, not this block. -->
+<p align="center"><a href="https://glassbox.how/e/yawnclear/"><img src="glassbox/cover.jpg" alt="Why do we yawn?" width="100%"></a></p>
 
 <h1 align="center">YawnClear</h1>
 
@@ -52,6 +53,20 @@
 - **2016** · Bigger brains, longer yawns (Andrew C. Gallup, A. M. Church and A. J. Pelegrino, SUNY Oneonta, New York, USA)
 
 The full story, with 44 moments, charts, people and 41 sources: [glassbox.how/e/yawnclear/history](https://glassbox.how/e/yawnclear/history/). The data lives in [`history.json`](history.json).
+
+## Video and slides
+
+Made with the Glassbox studio from this box's storyboard (`window.glassbox.director`). Free to reuse under CC BY 4.0.
+
+<a href="https://glassbox.how/yawnclear/glassbox/video.mp4"><img src="glassbox/thumb.jpg" alt="Video: Why do we yawn?" width="100%"></a>
+
+<p><a href="glassbox/slide-1.jpg"><img src="glassbox/slide-1.jpg" alt="Carousel slide-1" width="24%"></a> <a href="glassbox/slide-2.jpg"><img src="glassbox/slide-2.jpg" alt="Carousel slide-2" width="24%"></a> <a href="glassbox/slide-3.jpg"><img src="glassbox/slide-3.jpg" alt="Carousel slide-3" width="24%"></a> <a href="glassbox/slide-4.jpg"><img src="glassbox/slide-4.jpg" alt="Carousel slide-4" width="24%"></a></p>
+
+| File | What | Size |
+|---|---|---|
+| `glassbox/slide-1…10.jpg` | Instagram carousel | 1080×1350 |
+| `glassbox/thumb.jpg` | YouTube thumbnail | 1280×720 |
+| `glassbox/cover.jpg` | Share card and repo social preview | 1200×630 |
 
 ## Privacy
 
